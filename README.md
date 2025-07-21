@@ -1,56 +1,84 @@
-![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 
-# Hi, I'm Amit Paul! 👋
-
-## About Me
-I'm passionate about full-stack development, open-source, and building digital solutions that help people. I love exploring web technologies, creating modern UIs, and contributing to meaningful projects.
-
-## Tech Stack
-
-<table>
-  <tr>
-    <td><b>Programming:</b></td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40" height="40"/>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend:</b></td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" width="40" height="40"/>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend:</b></td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="40" height="40"/>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools & Platforms:</b></td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="40" height="40"/>&nbsp;
-    </td>
-  </tr>
-</table>
-
-<hr>
+<h1 align="center">Hi, I'm Amit Paul! 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul2004&show_icons=true&hide_title=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="Amit's GitHub Stats" />
+  <em>🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🧠 Lifelong Learner</em>
 </p>
 
-## Connect with Me
+---
 
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/amitpaul)  
-[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/amitpaul2004)  
-[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:pal900290@gmail.com)
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on: **BloodConnect** - a platform for blood and organ donation  
+- 🌱 Learning: React, MongoDB, and AI integrations  
+- 🎯 Passionate about building beautiful UIs and meaningful tech  
+- 🧩 Competitive Coder | Hackathon Lover  
+- 📍 Based in India | 🌐 Open to remote opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+### 🎨 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### 🔧 Backend & DB
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### 🧰 Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul2004&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🌐 BloodConnect
+> A platform that connects blood donors, hospitals, and recipients. Features include live donor search, campaign locator, and digital donor cards.
+
+🔗 [View Project Repo](https://github.com/amitpaul2004/BloodConnect)
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amitpaul">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pal900290@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/amitpaul2004">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amitpaul2004&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+</p>
