@@ -1,4 +1,5 @@
-![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Amit+Paul!;Full-Stack+Web+Developer;Tech+Enthusiast+%7C+Open+Source+Lover)
+
 
 <h1 align="center">Hi, I'm Amit Paul! 👋</h1>
 
