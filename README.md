@@ -1,4 +1,5 @@
-![Header](https://github.com/amitpaul2004/amitpaul2004/assets/10422940/f91e5b95-91a5-4c70-9647-2ef93320a00b)
+![Header](https://github.com/amitpaul2004/amitpaul2004/assets/10422940/83eaf8fc-baca-4930-a1db-e3b7bcb77f7f)
+
 
 
 <h1 align="center">Hi, I'm Amit Paul! 👋</h1>
