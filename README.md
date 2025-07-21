@@ -54,10 +54,9 @@
 
 ## 🚀 Featured Project
 
-### 🌐 BloodConnect
-> A platform that connects blood donors, hospitals, and recipients. Features include live donor search, campaign locator, and digital donor cards.
+### 🌐 view Repo
 
-🔗 [View Project Repo](https://github.com/amitpaul2004/BloodConnect)
+🔗 [View Project Repo]([https://github.com/amitpaul2004/BloodConnect](https://github.com/amitpaul2004?tab=repositories))
 
 ---
 
