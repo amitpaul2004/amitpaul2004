@@ -1,4 +1,4 @@
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Amit+Paul!;Full-Stack+Web+Developer;Tech+Enthusiast+%7C+Open+Source+Lover)
+![Header](https://github.com/amitpaul2004/amitpaul2004/assets/10422940/f91e5b95-91a5-4c70-9647-2ef93320a00b)
 
 
 <h1 align="center">Hi, I'm Amit Paul! 👋</h1>
