@@ -1,5 +1,6 @@
 
-![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif) 
+![Header]<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/976155b4-94fb-46dc-bcba-305ac4dee74e" />
+
 
 
 
