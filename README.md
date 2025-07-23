@@ -2,6 +2,8 @@
 ![Header](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)
 
 
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
+
 <h1 align="center">Hi 👋, I'm <span style="color:#58a6ff;">Amit Paul</span></h1>
 
 <p align="center">
@@ -91,5 +93,6 @@ Built with 💖 using modern technologies like HTML, CSS, JS, and Node.js.
 <p align="center">
   🚨 *Let's build something impactful together!* 🚨
 </p>
+
 
 
