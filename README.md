@@ -2,46 +2,44 @@
 ![Header](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)
 
 
-
-
-
-<h1 align="center">Hi, I'm Amit Paul! 👋</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#58a6ff;">Amit Paul</span></h1>
 
 <p align="center">
-  <em>🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🧠 Lifelong Learner</em>
+  🚀 Full-Stack Developer & Problem Solver <br>
+  💻 Tech Enthusiast | 🧠 Lifelong Learner | 🎯 Hackathon Lover  
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on: **BloodConnect** - a platform for blood and organ donation  
-- 🌱 Learning: React, MongoDB, and AI integrations  
-- 🎯 Passionate about building beautiful UIs and meaningful tech  
-- 🧩 Competitive Coder | Hackathon Lover  
-- 📍 Based in India | 🌐 Open to remote opportunities
+- 🔭 Currently building **BloodConnect** – a platform for blood & organ donation  
+- 🌱 Exploring **React**, **MongoDB**, and **AI-powered apps**  
+- ✨ Passionate about **beautiful UIs** and **clean code**  
+- 🧩 Competitive programmer & always up for a challenge  
+- 🌍 Based in **India**, open to **remote roles**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 💡 Languages  
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-### 🎨 Frontend
+### 🖥️ Frontend  
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![React](https://skillicons.dev/icons?i=react)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-### 🔧 Backend & DB
+### 🛠️ Backend & Database  
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Platforms  
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
@@ -51,24 +49,25 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul2004&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul2004&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpaul2004&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🌐 view Repo
+### 🔗 [BloodConnect Repository](https://github.com/amitpaul2004/BloodConnect)
 
-🔗 [View Project Repo]([https://github.com/amitpaul2004/BloodConnect](https://github.com/amitpaul2004?tab=repositories))
+A life-saving platform to find and connect blood and organ donors with those in need.  
+Built with 💖 using modern technologies like HTML, CSS, JS, and Node.js.
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amitpaul">
+  <a href="https://linkedin.com/in/amitpaul" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
@@ -84,5 +83,13 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitpaul2004&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=amitpaul2004&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
+
+---
+
+<p align="center">
+  🚨 *Let's build something impactful together!* 🚨
+</p>
+
+
