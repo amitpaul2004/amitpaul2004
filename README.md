@@ -54,11 +54,11 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Currently Working Project
 
-### 🌐 view Repo
+### 🌐 view Repo --- >  NOTE APP
 
-🔗 [View Project Repo]([https://github.com/amitpaul2004/BloodConnect](https://github.com/amitpaul2004?tab=repositories))
+🔗 [View Project Repo](https://github.com/amitpaul2004/note-app)
 
 ---
 
