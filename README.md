@@ -12,7 +12,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on: **BloodConnect** - a platform for blood and organ donation  
 - 🌱 Learning: React, MongoDB, and AI integrations  
 - 🎯 Passionate about building beautiful UIs and meaningful tech  
 - 🧩 Competitive Coder | Hackathon Lover  
