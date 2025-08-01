@@ -1,6 +1,4 @@
-
 ![Header](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)
-
 
 <h1 align="center">Hi, I'm Amit Paul! 👋</h1>
 
@@ -12,16 +10,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Learning: React, MongoDB, and AI integrations  
-- 🎯 Passionate about building beautiful UIs and meaningful tech  
-- 🧩 Competitive Coder | Hackathon Lover  
-- 📍 Based in India | 🌐 Open to remote opportunities
+I'm a full-stack developer and lifelong learner from India, with a passion for building beautiful UIs and meaningful tech solutions. I'm currently expanding my skills in **React**, **MongoDB**, and **AI integrations**.
+
+As a competitive coder and hackathon enthusiast, I love tackling new challenges and collaborating with others to create innovative projects. I'm always looking for new opportunities and am open to remote work.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
@@ -32,15 +29,28 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-### 🔧 Backend & DB
+### 🔧 Backend & Databases
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### 🧰 Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 🚀 Projects
+
+### Note App
+A full-stack note-taking application built with the MERN stack.
+- **Frontend:** React, Redux, Material UI
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Features:** User authentication, create/read/update/delete notes, search functionality.
+- [**View Project Repo**](https://github.com/amitpaul2004/note-app)
 
 ---
 
@@ -53,15 +63,7 @@
 
 ---
 
-## 🚀 Currently Working Project
-
-### 🌐 view Repo --- >  NOTE APP
-
-🔗 [View Project Repo](https://github.com/amitpaul2004/note-app)
-
----
-
-## 🤝 Connect with Me
+## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amitpaul">
