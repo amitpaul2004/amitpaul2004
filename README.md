@@ -57,8 +57,7 @@
 
 ### 🌐 view Repo --- >  NOTE APP
 
-🔗 [View Project Repo](https://github.com/amitpaul2004/note-app)
-
+🔗 [View Project Repo]https://github.com/amitpaul2004/NOTESAPP-mongoDB-.git
 ---
 
 ## 🤝 Connect with Me
