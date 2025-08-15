@@ -75,7 +75,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://devfolio.co/@amitpaul2004">
-    <img src="https://skillicons.dev/icons?i=devfolio" height="40" />
+    <img src="https://api.iconify.design/simple-icons/devfolio.svg" height="40" />
   </a>
 </p>
 
