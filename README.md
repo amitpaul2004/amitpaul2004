@@ -75,7 +75,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://devfolio.co/@amitpaul2004">
-    <img src="https://api.iconify.design/simple-icons/devfolio.svg" height="40" />
+    <img src="https://d2vjvaf4r9elxz.cloudfront.net/static/devfolio-logo.png" height="40" />
   </a>
 </p>
 
