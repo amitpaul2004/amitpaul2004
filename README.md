@@ -75,7 +75,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://devfolio.co/@amitpaul2004">
-    <img src="[https://d2vjvaf4r9elxz.cloudfront.net/static/devfolio-logo.png](https://www.google.com/search?sca_esv=026ca5c1e8389fd9&sxsrf=AE3TifP7XVIFuToXxdAYw0DALJbu6f4i2Q:1755284944854&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIemkjk18Cn72Gp24fGkjjh6zMCa7_MMjQ9iBkHsfpWm-fTgIufGWCcAoN796EMBoLoaiQpYJqlV2MGBidYg_9eo3y6PQLN60oJqMC0QqcN0AfLOIRFgNDHHTBJxl5nSwbj0Un88SeW4axHMAHi71mT5HocZ4ZK9okA82oLfzx_phaiUojGQ&q=devfolio+logo+png&sa=X&ved=2ahUKEwjzoPj8wY2PAxVpi2MGHSYWBfMQtKgLegQIERAB&biw=1536&bih=695&dpr=1.25#vhid=cZXrg3q6KZLIPM&vssid=mosaic)" height="40" />
+    <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio">
   </a>
 </p>
 
