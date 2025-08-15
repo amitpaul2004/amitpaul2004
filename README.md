@@ -74,10 +74,11 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   &nbsp;&nbsp;
-   <a href="https://devfolio.com/@amitpaul2004">
+  <a href="https://devfolio.co/@amitpaul2004">
     <img src="https://skillicons.dev/icons?i=devfolio" height="40" />
   </a>
 </p>
+
 
 ---
 
