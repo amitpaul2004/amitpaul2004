@@ -62,7 +62,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amitpaul">
+  <a href="www.linkedin.com/in/amit-paul-820771324">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
