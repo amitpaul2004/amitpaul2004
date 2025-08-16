@@ -1,6 +1,5 @@
 ![Header](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)
 
-
 <h1 align="center">Hi, I'm Amit Paul! 👋</h1>
 
 <p align="center">
