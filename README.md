@@ -85,3 +85,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitpaul2004&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 </p>
+
+<!-- Gradient Long Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&width=320%&reversal=false&fontAlign=70&animation=twinkling&gradient=1A33F0,1C2EB5,6173FA"/>
+
