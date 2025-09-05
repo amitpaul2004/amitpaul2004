@@ -78,6 +78,11 @@
     <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio">
   </a>
 </p>
+---
+<br clear="both">
+
+<img style="pointer-events:none;" src="https://raw.githubusercontent.com/Circuit-Overtime/Circuit-Overtime/output/snake.svg" alt="Snake animation" />
+
 
 
 ---
