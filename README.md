@@ -5,7 +5,6 @@
 <p align="center">
   <em>🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🧠 Lifelong Learner</em>
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
