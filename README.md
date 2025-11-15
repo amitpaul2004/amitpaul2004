@@ -63,9 +63,8 @@ I'm a passionate Full-Stack Developer and tech enthusiast based in India, with a
 ## 🚀 My Top Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitpaul2004&repo=NOTESAPP-mongoDB-&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10&hide_border=true" alt="Pinned Project: Note App" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitpaul2004&repo=[ADD_ANOTHER_PINNED_REPO_NAME_HERE]&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10&hide_border=true" alt="Pinned Project 2" />
-</p>
+  <img width="648" height="183" alt="image" src="https://github.com/user-attachments/assets/59631566-47de-43d2-acb8-9fd869bfde98" />
+
 
 ---
 
