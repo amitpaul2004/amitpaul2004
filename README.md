@@ -98,7 +98,7 @@ I'm a passionate Full-Stack Developer and tech enthusiast based in India, with a
 
 <br clear="both">
 
-## 🚀 Space Shooter Contribution Game 🎮
+## Contribution Game 🎮
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/output/github-contribution-grid-snake.svg" alt="Contribution Game" />
