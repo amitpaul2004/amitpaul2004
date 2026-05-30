@@ -9,13 +9,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitpaul2004&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amitpaul2004&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/amitpaul2004?label=Followers&style=flat-square&color=58a6ff&logo=github" alt="GitHub Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work%20✅-brightgreen?style=flat-square" alt="Open To Work" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work%20%E2%9C%85-brightgreen?style=flat-square" alt="Open To Work" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-orange?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square" alt="Location" />
 </div>
 
 ---
@@ -95,7 +95,7 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitpaul2004&theme=github-dark&row=1&column=7&margin-w=12&margin-h=12&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amitpaul2004&theme=github-dark&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -103,13 +103,13 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul2004&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10" height="170" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul2004&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10&cache_seconds=3600" height="170" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul2004&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul2004&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&hide_border=true&langs_count=8&cache_seconds=3600" height="150" alt="Top Languages"/>
 </div>
 
 ---
@@ -117,13 +117,13 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/amitpaul2004/StudyFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitpaul2004&repo=StudyFlow&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&border_radius=10" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/amitpaul2004/SkillSprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitpaul2004&repo=SkillSprint&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&border_radius=10" />
-  </a>
+
+| 🗂️ Project | 📝 Description | 🛠️ Tech | 🔗 Links |
+|:----------:|:--------------|:-------:|:--------:|
+| 🎓 **StudyFlow** | Student collaboration & productivity platform | HTML · CSS · JS | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004/StudyFlow) |
+| ⚡ **SkillSprint** | Mobile-ready learning & skill-tracking app | React · Node · MongoDB | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004/SkillSprint) |
+| 🤖 **3D Portfolio** | Interactive 3D developer portfolio with AI terminal | React · Three.js | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004) |
+
 </div>
 
 ---
@@ -172,10 +172,12 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 
 ---
 
-## 🎮 Contribution Snake
+## 🌍 3D Contribution World
+
+> _My GitHub contributions rendered as a 3D animated world — the taller the towers, the more I coded!_
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" />
+  <img src="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/main/profile-3d-contrib/profile-night-rainbow-animate.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
