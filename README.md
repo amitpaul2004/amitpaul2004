@@ -95,7 +95,11 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 ## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitpaul2004&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitpaul2004&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitpaul2004&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitpaul2004&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
+  </picture>
 </div>
 
 ---
@@ -103,17 +107,37 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitpaul2004&theme=github_dark" height="175" alt="GitHub Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitpaul2004&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitpaul2004&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitpaul2004&theme=github_dark" height="175" alt="GitHub Stats"/>
+  </picture>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10" height="175" alt="Streak Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=amitpaul2004&theme=github&hide_border=true&border_radius=10">
+    <img src="https://streak-stats.demolab.com?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10" height="175" alt="Streak Stats"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitpaul2004&theme=github_dark" height="175" alt="Repos Per Language"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitpaul2004&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitpaul2004&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitpaul2004&theme=github_dark" height="175" alt="Repos Per Language"/>
+  </picture>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitpaul2004&theme=github_dark" height="175" alt="Most Commit Language"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitpaul2004&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitpaul2004&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitpaul2004&theme=github_dark" height="175" alt="Most Commit Language"/>
+  </picture>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitpaul2004&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitpaul2004&theme=github_dark&utcOffset=5.5">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitpaul2004&theme=github&utcOffset=5.5">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitpaul2004&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time"/>
+  </picture>
 </div>
 
 ---
@@ -135,7 +159,11 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0" alt="GitHub Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-light&hide_border=true&color=0969da&line=0969da&point=57606a&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0" alt="GitHub Activity Graph"/>
+  </picture>
 </div>
 
 ---
@@ -143,7 +171,11 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 ## 💬 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+  </picture>
 </div>
 
 ---
@@ -181,7 +213,11 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 > _My GitHub contributions rendered as a 3D animated world — the taller the towers, the more I coded!_
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/main/profile-3d-contrib/profile-green.svg">
+    <img src="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  </picture>
 </div>
 
 ---
