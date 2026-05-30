@@ -95,7 +95,7 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitpaul2004&theme=github-dark&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amitpaul2004&theme=github-dark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -103,13 +103,17 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul2004&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" height="170" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitpaul2004&theme=github_dark" height="175" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10&cache_seconds=3600" height="170" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10" height="175" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul2004&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&hide_border=true&langs_count=8&cache_seconds=3600" height="150" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitpaul2004&theme=github_dark" height="175" alt="Repos Per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitpaul2004&theme=github_dark" height="175" alt="Most Commit Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitpaul2004&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time"/>
 </div>
 
 ---
