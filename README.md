@@ -1,85 +1,152 @@
-![Header](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1A33F0,100:00C4FF&height=230&section=header&text=Amit%20Paul&fontSize=65&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=60&descSize=18" width="100%"/>
+</div>
 
-<h1 align="center">Hi, I'm Amit Paul! 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Amit+Paul+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MERN+Stack+%F0%9F%94%A5;Competitive+Coder+%F0%9F%8F%86;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%A7%A0" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <em>🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🧠 Lifelong Learner</em>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amitpaul2004&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/amitpaul2004?label=Followers&style=flat-square&color=58a6ff&logo=github" alt="GitHub Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work%20✅-brightgreen?style=flat-square" alt="Open To Work" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-orange?style=flat-square" alt="Location" />
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Full-Stack Developer and tech enthusiast based in India, with a love for building beautiful UIs and meaningful, scalable applications.
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-* 🌱 I’m currently diving deep into **React, MongoDB, and AI integrations**.
-* 🎯 My passion lies in **Competitive Coding** and solving complex problems at hackathons.
-* 🤝 I’m looking to collaborate on **innovative open-source projects** or **challenging web applications**.
-* 🌐 I'm open to **remote opportunities** and connecting with fellow developers.
-* 💬 Ask me about **C++, Python, JavaScript, or the MERN stack**.
+I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮🇳**, driven by a love for crafting beautiful UIs and scalable, impactful applications.
+
+- 🚀 Currently building with **React, Next.js & AI integrations**
+- 🏆 Passionate about **Competitive Programming** and hackathons
+- 🤝 Looking to collaborate on **open-source projects** and innovative web apps
+- 🌐 Open to **remote opportunities** and global developer connections
+- 💬 Ask me about **C++, Python, JavaScript, or the MERN stack**
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed of it 😄
+
+<br clear="both"/>
 
 ---
 
-## 🛠️ My Tech Stack
+## 🔥 What I'm Currently Up To
+
+<div align="center">
+
+| 🚧 Building | 📚 Learning | 🎯 Goals 2025 |
+|:-----------:|:-----------:|:-------------:|
+| Full-Stack Web Apps | Next.js & TypeScript | Contribute to OSS |
+| AI-Powered Tools | MongoDB & Cloud | 500+ LeetCode Problems |
+| Developer Portfolio | Docker & DevOps | Launch a SaaS product |
+
+</div>
+
+---
+
+## 🛠️ My Tech Arsenal
+
+<div align="center">
 
 ### 👨‍💻 Programming Languages
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 ### 🎨 Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 
-### 🔧 Backend & DB
+### 🔧 Backend & Database
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-### 🧰 Tools & Platforms
+
+### ☁️ Cloud & DevOps
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![AWS](https://skillicons.dev/icons?i=aws)
+
+### 🧰 Tools & IDEs
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitpaul2004&theme=github-dark&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amitpaul2004&theme=github-dark&row=1&column=7&margin-w=12&margin-h=12&no-bg=true" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-## 📈 My GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul2004&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpaul2004&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpaul2004&theme=github-dark-blue&hide_border=true&border_radius=10" height="170" alt="Streak Stats"/>
+</div>
 
----
-
-## 🚀 My Top Projects
-
-<p align="center">
-  <img width="648" height="183" alt="image" src="https://github.com/user-attachments/assets/59631566-47de-43d2-acb8-9fd869bfde98" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpaul2004&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
+</div>
 
 ---
 
-## 📊 My GitHub Activity
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+  <a href="https://github.com/amitpaul2004/StudyFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitpaul2004&repo=StudyFlow&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&border_radius=10" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/amitpaul2004/SkillSprint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitpaul2004&repo=SkillSprint&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d&border_radius=10" />
+  </a>
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</div>
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/amit-paul-820771324">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -93,22 +160,26 @@ I'm a passionate Full-Stack Developer and tech enthusiast based in India, with a
   </a>
   &nbsp;
   <a href="https://devfolio.co/@amitpaul2004">
-    <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio">
+    <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio"/>
   </a>
-</p>
+  &nbsp;
+  <a href="https://leetcode.com/amitpaul2004">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</div>
 
-<br clear="both">
-
-## Contribution Game 🎮
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/output/github-contribution-grid-snake.svg" alt="Contribution Game" />
-</p>
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitpaul2004&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-</p>
+## 🎮 Contribution Snake
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&width=320%&reversal=false&fontAlign=70&animation=twinkling&gradient=1A33F0,1C2EB5,6173FA"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,50:1A33F0,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
+</div>
