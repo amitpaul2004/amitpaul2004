@@ -14,17 +14,31 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Verify Generated Files
+        run: |
+          echo "=== Checking generated files ==="
+          ls -la profile-3d-contrib/ 2>/dev/null || echo "WARNING: profile-3d-contrib/ folder not found!"
+          echo "================================"
+
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A .
-          if git commit -m "chore: update 3D contribution graph [skip ci]"; then
+          git status
+          git diff --staged --stat
+          if git diff --staged --quiet; then
+            echo "No changes detected - files may not have been generated."
+          else
+            git commit -m "chore: update 3D contribution graph"
             git push
+            echo "SUCCESS: 3D contribution graph committed and pushed!"
           fi

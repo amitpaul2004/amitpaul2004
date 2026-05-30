@@ -177,7 +177,7 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 > _My GitHub contributions rendered as a 3D animated world — the taller the towers, the more I coded!_
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow-animate.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/amitpaul2004/amitpaul2004/main/profile-3d-contrib/profile-night-rainbow-animate.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
