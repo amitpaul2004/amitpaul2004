@@ -92,10 +92,10 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitpaul2004&theme=github-dark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitpaul2004&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
 </div>
 
 ---
