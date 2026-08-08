@@ -51,6 +51,12 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 
 ---
 
+## 🛠️ Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,nodejs,express,mongodb,mysql,git,github,vscode)](https://skillicons.dev)
+
+---
+
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
