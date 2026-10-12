@@ -142,15 +142,18 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India 🇮�
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Recent & Active Projects
 
 <div align="center">
 
+<!-- RECENT-PROJECTS:START -->
 | 🗂️ Project | 📝 Description | 🛠️ Tech | 🔗 Links |
 |:----------:|:--------------|:-------:|:--------:|
-| 🎓 **StudyFlow** | Student collaboration & productivity platform | HTML · CSS · JS | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004/StudyFlow) |
-| ⚡ **SkillSprint** | Mobile-ready learning & skill-tracking app | React · Node · MongoDB | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004/SkillSprint) |
-| 🤖 **3D Portfolio** | Interactive 3D developer portfolio with AI terminal | React · Three.js | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004) |
+| ⚡ **[MASTER_WEB](https://github.com/amitpaul2004/MASTER_WEB)** | RepoScope is a repository intelligence platform that analyzes GitHub repositories to reveal code structure, development history... | TypeScript · JavaScript · HTML | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004/MASTER_WEB)&nbsp;[![Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=googlechrome&logoColor=white)](https://master-web-1.onrender.com) |
+| ⚡ **[StudyFlow](https://github.com/amitpaul2004/StudyFlow)** | 🎓 StudySphere – An open-source student productivity and collaboration platform for sharing notes, tracking assignments, managin... | JavaScript · CSS · HTML | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004/StudyFlow)&nbsp;[![Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=googlechrome&logoColor=white)](https://study-flow-flax-two.vercel.app) |
+| 🐍 **[AgentGuard](https://github.com/amitpaul2004/AgentGuard)** | AI Agent Security Gateway – Local, policy-first gateway preventing unauthorized tool & file access. | Python | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004/AgentGuard) |
+| 🐍 **[dogtalk-ai](https://github.com/amitpaul2004/dogtalk-ai)** | Experimental Human ↔ Dog Voice Communication Lab with BarkCode pattern analysis. | Python · HTML · JavaScript | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/amitpaul2004/dogtalk-ai) |
+<!-- RECENT-PROJECTS:END -->
 
 </div>
 
