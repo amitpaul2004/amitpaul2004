@@ -160,9 +160,9 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast from **India ðŸ‡®ð
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-light&hide_border=true&color=0969da&line=0969da&point=57606a&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0" alt="GitHub Activity Graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://fabianocouto-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0">
+    <source media="(prefers-color-scheme: light)" srcset="https://fabianocouto-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-light&hide_border=true&color=0969da&line=0969da&point=57606a&area=true">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=amitpaul2004&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0" alt="GitHub Activity Graph"/>
   </picture>
 </div>
 
