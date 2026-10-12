@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitpaul2004&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amitpaul2004&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/amitpaul2004?label=Followers&style=flat-square&color=58a6ff&logo=github" alt="GitHub Followers" />
   &nbsp;
